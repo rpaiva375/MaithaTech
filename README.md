@@ -59,6 +59,11 @@ REDIS_QUEUE_PORT=6379
 docker compose up
 ```
 
+Visitar: 
+http://localhost:8000/docs
+http://localhost:5050/browser/
+
+
 ### Criando Super Usuario
 
 O usuario é criado de acordo com o que foi colocado nas variaveis que começam com 'ADMIN_'
