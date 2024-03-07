@@ -71,7 +71,7 @@ O usuario é criado de acordo com o que foi colocado nas variaveis que começam 
 Dentro do container web rodar o comando(/code):
 
 ```sh
-python -m scripts.create_first_superuser
+python -m scripts.create_superuser
 ```
 
 ou
