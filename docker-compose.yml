@@ -62,7 +62,6 @@ services:
     depends_on:
       - db
 
-  #-------- uncomment to run tests --------
   # pytest:
   #   build:
   #     context: .

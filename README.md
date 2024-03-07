@@ -77,7 +77,7 @@ docker exec web bash -c "python -m scripts.create_superuser"
 
 ## Pytest
 
-OBS: Essa parte do teste foi implementada mas não efetivamente testada. O tempo ficou curto.
+OBS: Essa parte do teste foi implementada mas não efetivamente testada, mas o caminho é esse. O tempo ficou curto.
 
 Setar as variaveis de ambiente para teste no .env:
 
